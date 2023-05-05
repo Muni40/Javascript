@@ -1,0 +1,16 @@
+let permet de déclarer des variables dont la portée est limitée à celle du bloc dans lequel elles sont déclarées. 
+Le mot –clé var, quant à lui ,permet de définir une variable globale ou locale à une fonction(sans distinction des blocs utilisés dans la fonction) .
+
+
+var x=(1/6*3/2)
+undefined
+x
+0.25
+var y=(4/3*1/2)
+undefined
+y
+0.6666666666666666
+var z=(x/y)
+undefined
+z
+0.375
